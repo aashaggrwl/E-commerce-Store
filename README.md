@@ -1,1 +1,1 @@
-# YourClinic
+# Mern Ecommerce Store
